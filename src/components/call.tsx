@@ -1,5 +1,4 @@
 import Image from "next/image";
-import pic from "/contact-helpdesk-customer-service-spaceship-graphic-concept.jpg"
 import Link from "next/link";
 export default function Cta(){
  return(
